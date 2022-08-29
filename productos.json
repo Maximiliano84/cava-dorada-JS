@@ -1,0 +1,176 @@
+{
+    "status": "success",
+    "items": [{
+            "id": 1,
+            "title": "Rutini Colección Malbec",
+            "price": 31880,
+            "image": "https://vinotecaligier.com/media/catalog/product/cache/1/small_image/430x320/9df78eab33525d08d6e5fb8d27136e95/b/e/be01239_1.jpg",
+            "category": "tinto"
+        },
+        {
+            "id": 2,
+            "title": "Clos Mogador",
+            "price": 16926,
+            "image": "https://vinotecaligier.com/media/catalog/product/cache/1/small_image/430x320/9df78eab33525d08d6e5fb8d27136e95/v/i/vi10298_2.jpg",
+            "category": "blanco"
+        },
+        {
+            "id": 3,
+            "title": "Rutini Colección Rosé",
+            "price": 5000,
+            "image": "https://vinotecaligier.com/media/catalog/product/cache/1/small_image/430x320/9df78eab33525d08d6e5fb8d27136e95/b/e/be73357_1.jpg",
+            "category": "rosado"
+        },
+        {
+            "id": 4,
+            "title": "Pomemery Brut",
+            "price": 26318,
+            "image": "https://vinotecaligier.com/media/catalog/product/cache/1/small_image/430x320/9df78eab33525d08d6e5fb8d27136e95/b/e/be02742.jpg",
+            "category": "espumantes"
+        },
+        {
+            "id": 5,
+            "title": "Tua Rita Lodano",
+            "price": 19422,
+            "image": "https://vinotecaligier.com/media/catalog/product/cache/1/small_image/430x320/9df78eab33525d08d6e5fb8d27136e95/v/i/vi10531_1.jpg",
+            "category": "blanco"
+
+        },
+        {
+            "id": 6,
+            "title": "Las Perdices Logia Rosé",
+            "price": 2946,
+            "image": "https://vinotecaligier.com/media/catalog/product/cache/1/small_image/430x320/9df78eab33525d08d6e5fb8d27136e95/b/e/be76139_base.jpg",
+            "category": "rosado"
+
+        },
+        {
+            "id": 7,
+            "title": "Fond De Cave Malbec",
+            "price": 20150,
+            "image": "https://vinotecaligier.com/media/catalog/product/cache/1/small_image/430x320/9df78eab33525d08d6e5fb8d27136e95/b/e/be03862_base.jpg",
+            "category": "tinto"
+        },
+        {
+            "id": 8,
+            "title": "Louis Roederer Brut",
+            "price": 55515,
+            "image": "https://vinotecaligier.com/media/catalog/product/cache/1/small_image/430x320/9df78eab33525d08d6e5fb8d27136e95/b/e/be73825_3.jpg",
+            "category": "espumantes"
+        },
+        {
+            "id": 9,
+            "title": "Chateau La Coste Rose",
+            "price": 10819,
+            "image": "https://vinotecaligier.com/media/catalog/product/cache/1/small_image/430x320/9df78eab33525d08d6e5fb8d27136e95/v/i/vi10974_base.jpg",
+            "category": "rosado"
+        },
+        {
+            "id": 10,
+            "title": "Norton Malbec",
+            "price": 18720,
+            "image": "https://vinotecaligier.com/media/catalog/product/cache/1/small_image/430x320/9df78eab33525d08d6e5fb8d27136e95/b/e/be72542_base.jpg",
+            "category": "tinto"
+        },
+        {
+            "id": 11,
+            "title": "Diamandes Chardonnay",
+            "price": 5489,
+            "image": "https://vinotecaligier.com/media/catalog/product/cache/1/small_image/430x320/9df78eab33525d08d6e5fb8d27136e95/b/e/be72938_1.jpg",
+            "category": "blanco"
+        },
+        {
+            "id": 12,
+            "title": "Taittinger Brut",
+            "price": 45626,
+            "image": "https://vinotecaligier.com/media/catalog/product/cache/1/small_image/430x320/9df78eab33525d08d6e5fb8d27136e95/b/e/be72407_1.jpg",
+            "category": "espumantes"
+        },
+        {
+            "id": 13,
+            "title": "Luigi Bosca Malbec",
+            "price": 28127,
+            "image": "https://vinotecaligier.com/media/catalog/product/cache/1/small_image/430x320/9df78eab33525d08d6e5fb8d27136e95/b/e/be02835.jpg",
+            "category": "tinto"
+        },
+        {
+            "id": 14,
+            "title": "Desquiciado Salvaje",
+            "price": 5290,
+            "image": "https://vinotecaligier.com/media/catalog/product/cache/1/small_image/430x320/9df78eab33525d08d6e5fb8d27136e95/b/e/be75856_base_1.jpg",
+            "category": "blanco"
+        },
+        {
+            "id": 15,
+            "title": "Vik La Piu Belle Rosé",
+            "price": 36061,
+            "image": "https://vinotecaligier.com/media/catalog/product/cache/1/small_image/430x320/9df78eab33525d08d6e5fb8d27136e95/v/i/vi10761_base.jpg",
+            "category": "rosado"
+        },
+        {
+            "id": 16,
+            "title": "Taittinger Nocturne",
+            "price": 21251,
+            "image": "https://vinotecaligier.com/media/catalog/product/cache/1/small_image/430x320/9df78eab33525d08d6e5fb8d27136e95/b/e/be75957_base.jpg",
+            "category": "espumantes"
+        },
+        {
+            "id": 17,
+            "title": "Alta Yari Gran Torrontes",
+            "price": 2546,
+            "image": "https://vinotecaligier.com/media/catalog/product/cache/1/small_image/430x320/9df78eab33525d08d6e5fb8d27136e95/b/e/be75903_base.jpg",
+            "category": "blanco"
+
+        },
+        {
+            "id": 18,
+            "title": "Mendel Rosadía Rosé",
+            "price": 6750,
+            "image": "https://vinotecaligier.com/media/catalog/product/cache/1/small_image/430x320/9df78eab33525d08d6e5fb8d27136e95/b/e/be75386_base.jpg",
+            "category": "rosado"
+
+        },
+        {
+            "id": 19,
+            "title": "Cadus Malbec",
+            "price": 63000,
+            "image": "https://vinotecaligier.com/media/catalog/product/cache/1/small_image/430x320/9df78eab33525d08d6e5fb8d27136e95/b/e/be51528.jpg",
+            "category": "tinto"
+        },
+        {
+            "id": 20,
+            "title": "Perrier Jouet",
+            "price": 37549,
+            "image": "https://vinotecaligier.com/media/catalog/product/cache/1/small_image/430x320/9df78eab33525d08d6e5fb8d27136e95/b/e/be75194.jpg",
+            "category": "espumantes"
+        },
+        {
+            "id": 21,
+            "title": "Punta de Flechas Rosé",
+            "price": 10925,
+            "image": "https://vinotecaligier.com/media/catalog/product/cache/1/small_image/430x320/9df78eab33525d08d6e5fb8d27136e95/b/e/be73611_3.jpg",
+            "category": "rosado"
+        },
+        {
+            "id": 22,
+            "title": "Nieto Senetiner Malbec",
+            "price": 37203,
+            "image": "https://vinotecaligier.com/media/catalog/product/cache/1/small_image/430x320/9df78eab33525d08d6e5fb8d27136e95/B/E/BE90039_1.jpg",
+            "category": "tinto"
+        },
+        {
+            "id": 23,
+            "title": "Pasarisa torrontes",
+            "price": 1279,
+            "image": "https://vinotecaligier.com/media/catalog/product/cache/1/small_image/430x320/9df78eab33525d08d6e5fb8d27136e95/b/e/be03955_1.jpg",
+            "category": "blanco"
+        },
+        {
+            "id": 24,
+            "title": "Louis Roederer Brut",
+            "price": 44220,
+            "image": "https://vinotecaligier.com/media/catalog/product/cache/1/small_image/430x320/9df78eab33525d08d6e5fb8d27136e95/b/e/be73826_2.jpg",
+            "category": "espumantes"
+        }
+    ]
+}

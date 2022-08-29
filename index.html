@@ -1,0 +1,159 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>CAVA DORADA</title>
+    <!-- aos -->
+    <link rel="stylesheet" href="https://unpkg.com/aos@next/dist/aos.css" />
+    <!--Google fonts-->
+    <link rel="preconnect" href="https://fonts.gstatic.com" />
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap" rel="stylesheet" />
+    <!--Box icons-->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/boxicons@latest/css/boxicons.min.css" />
+
+    <link rel="stylesheet" href="./css/styles.css" />
+</head>
+
+<body>
+    <nav>
+        <a href="./index.html" data-aos="fade-down" data-aos-easing="linear" data-aos-duration="1000">
+            <div class="nav__logo">
+                <h1>CAVA<span>DORADA</span></h1>
+            </div>
+            <p class="logo1">Vinos de excelencia</p>
+        </a>
+
+        <ul class="enlaces-menu">
+            <li><a href="./index.html">Inicio</a></li>
+
+            <li><a href="./formulario.html">Contacto</a></li>
+        </ul>
+
+        <button class="ham" type="button">   
+            <span class="br-1"></span>
+            <span class="br-2"></span>
+            <span class="br-3"></span>
+        </button>
+    </nav>
+
+    <div class="carrusel">
+        <div class="carrusel-items">
+            <div class="carrusel-item">
+                <img src="./img/img1.jpg" alt="" />
+            </div>
+            <div class="carrusel-item">
+                <img src="./img/img2.jpg" alt="" />
+            </div>
+            <div class="carrusel-item">
+                <img src="./img/img3.jpg" alt="" />
+            </div>
+            <div class="carrusel-item">
+                <img src="./img/img4.jpg" alt="" />
+            </div>
+            <div class="carrusel-item">
+                <img src="./img/img5.jpg" alt="" />
+            </div>
+            <div class="carrusel-item">
+                <img src="./img/img6.jpg" alt="" />
+            </div>
+            <div class="carrusel-item">
+                <img src="./img/img7.jpg" alt="" />
+            </div>
+            <div class="carrusel-item">
+                <img src="./img/img1.jpg" alt="" />
+            </div>
+            <div class="carrusel-item">
+                <img src="./img/img2.jpg" alt="" />
+            </div>
+            <div class="carrusel-item">
+                <img src="./img/img3.jpg" alt="" />
+            </div>
+            <div class="carrusel-item">
+                <img src="./img/img4.jpg" alt="" />
+            </div>
+            <div class="carrusel-item">
+                <img src="./img/img5.jpg" alt="" />
+            </div>
+        </div>
+    </div>
+    <!--Navegation-->
+
+    <div class="tienda">
+        <ul>
+            <div class="carrito__icon">
+                <i class="bx bx-cart"></i>
+                <span class="item__total">0</span>
+            </div>
+        </ul>
+    </div>
+
+
+    <!--Filter-->
+    <section class="filter">
+        <div class="grid">
+            <div class="div">
+                <label for="buscar"><span><i class="bx bx-search"></i></span></label>
+                <input type="text" id="buscar" placeholder="Buscar Productos...">
+            </div>
+            <div class="category">
+                <select id="category" onclick="categoryValue()">
+                    <option value="">Vinos</option>
+                    <option value="tinto">Tinto</option>
+                    <option value="blanco">Blanco</option>
+                    <option value="rosado">Rosado</option>
+                    <option value="espumantes">Espumantes</option>
+                 </select>
+            </div>
+        </div>
+    </section>
+
+    <!--Productos-->
+    <section class="productos">
+        <div class="productos__center" data-aos="fade-up" data-aos-duration="1000">
+
+        </div>
+    </section>
+
+    <!--Carrito-->
+
+    <section class="carrito__overlay">
+        <div class="carrito">
+            <span class="close__carrito">
+          <i class="bx bx-x"></i>
+        </span>
+            <h1>Su Carrito</h1>
+
+            <div class="carrito__center">
+
+            </div>
+
+            <div class="carrito__footer">
+                <h3>Total: $ <span class="carrito__total">0</span></h3>
+                <button class="clear__carrito btn">Remover Carrito</button>
+                <button class="comprar__carrito btn" id="botonComprar">COMPRAR</button>
+            </div>
+        </div>
+    </section>
+
+    <footer>
+        <div class="footer1">
+            <p>&copy; 2022 Todos los derechos reservados</p>
+        </div>
+    </footer>
+    <!-- aos -->
+    <script src="https://unpkg.com/aos@next/dist/aos.js"></script>
+    <script>
+        AOS.init();
+    </script>
+    <!-- Toastyfy -->
+    <script src="http://unpkg.com/sweetalert/dist/sweetalert.min.js"></script>
+    <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/toastify-js"></script>
+    <!-- sweetalert -->
+    <script src="http://unpkg.com/sweetalert/dist/sweetalert.min.js"></script>
+    <script src="https://unpkg.com/boxicons@latest/dist/boxicons.js"></script>
+    <script src="./js/scripts.js"></script>
+</body>
+
+</html>
